@@ -190,10 +190,14 @@
     }
     #fourth-part{
      #services{ 
+        .content{
+            margin-left: 0px;
          .ct{        
             box-shadow: 4px 4px 2px rgb(107, 247, 247);
              width: 50%;
+
          } 
+        }
     }  
 }
 #sixth-part{
